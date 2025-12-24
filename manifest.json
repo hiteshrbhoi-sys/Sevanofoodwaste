@@ -1,0 +1,50 @@
+{
+  "name": "Seva - No Food Waste",
+  "short_name": "Seva",
+  "description": "Connect donors, volunteers, and beneficiaries to reduce food waste and fight hunger",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#E8EFF5",
+  "theme_color": "#6B8E23",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo-72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo-96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo-144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["food", "social", "lifestyle"],
+  "screenshots": [
+    {
+      "src": "/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
